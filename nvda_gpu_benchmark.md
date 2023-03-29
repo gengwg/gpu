@@ -80,9 +80,6 @@ NOTE: The CUDA Samples are not meant for performance measurements. Results may v
 #### Dell A100
 
 ```
-ON XEA Dell
-
-```
 # ./bandwidthTest --memory=pinned --mode=quick --start=1024 --end=102400 --increment=1024 --dtoh -htod
 [CUDA Bandwidth Test] - Starting...
 Running on...
