@@ -132,3 +132,9 @@ Examples:
 
 - [Nvidia DGX A100](https://gist.github.com/gengwg/29302ceff3aa2519d1619dd35b95ae7b)
 - [Dell XEA A100](https://gist.github.com/gengwg/8d8a162f82b2ee8e391e39f5d77b34de)
+
+## CUDA Device Query
+
+Examples:
+
+- [Dell XEA A100](https://gist.github.com/gengwg/00f43c712c8da0c0c0b11f4d7bd6f74d)
