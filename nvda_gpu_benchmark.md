@@ -135,6 +135,11 @@ Examples:
 
 ## CUDA Device Query
 
+```
+# ./deviceQuery
+```
+
 Examples:
 
+- [Nvidia DGX A100](https://gist.github.com/gengwg/3520df2ebf8872e5ee4818367e3a4122)
 - [Dell XEA A100](https://gist.github.com/gengwg/00f43c712c8da0c0c0b11f4d7bd6f74d)
