@@ -133,6 +133,8 @@ Examples:
 - [Nvidia DGX A100](https://gist.github.com/gengwg/29302ceff3aa2519d1619dd35b95ae7b)
 - [Dell XEA A100](https://gist.github.com/gengwg/8d8a162f82b2ee8e391e39f5d77b34de)
 
+For both systems, the diagonal bandwidth, which utilizes the same GPU, is essentially the HBM2 DRAM speed of the A100 GPU at 1555 GB/sec. This is due to the fact that data is being fetched from local GPU memory.
+
 ## CUDA Device Query
 
 ```
